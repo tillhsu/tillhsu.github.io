@@ -288,7 +288,13 @@ ul.l-card li .l-card-text {
   padding: 0.5rem;
   font-size: 1.2rem;
 }
+ul.l-card li .l-card-price {
+  float: left;
+  font-size: 1.5rem;
+  color: #ff4343;
+}
 ul.l-card li .l-card-button {
+  border-radius: 5px;
   color: #FFF;
   display: inline-block;
   padding: 5px;

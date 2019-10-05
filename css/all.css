@@ -259,7 +259,7 @@ ul.main-list li span {
   position: absolute;
   z-index: 3;
   left: 500px;
-  top: 1200px;
+  top: 800px;
   opacity: 0.2;
 }
 @media (max-width: 767px) {
